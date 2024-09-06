@@ -1,0 +1,25 @@
+ol{
+    background: darkslategray;
+}
+h1{
+    overflow:lime
+}
+span{
+    background:rgb(41, 41, 41);
+    overflow: lime
+}
+#dark{
+    color:maroon;
+    letter-spacing:4px;
+}
+#srg{
+    color: brown;
+    padding: 35px;
+    line-height:89px;
+    border:38px;
+    border-color:navy;
+    margin:0px;
+}
+body{
+    background:lightgray;
+}
